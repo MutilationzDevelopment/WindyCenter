@@ -298,5 +298,11 @@
     "platform": "kick",
     "faction": "N/A",
     "displayName": "Billion"
+  },
+  {
+    "username": "zarty",
+    "platform": "kick",
+    "faction": "Risky Road",
+    "displayName": "Zarty"
   }
 ]
